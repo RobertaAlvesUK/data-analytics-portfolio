@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## 👋 About Me
-Hi, I'm Roberta. I'm an aspiring Data Analyst based in the UK, currently building my skills in **Power BI, SQL, and Python**. This portfolio showcases my hands-on projects as I work towards a Junior Data Analyst role.
+Hi, I'm Roberta. I'm an aspiring Data Analyst based in the UK, currently studying BSc (Hons) Computing at Solent University and building my skills in Power BI, SQL, and Python. This portfolio showcases my hands-on projects as I work towards a Junior Data Analyst role.
 
 ## 📈 Power BI Dashboards
 
